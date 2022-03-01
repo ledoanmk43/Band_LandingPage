@@ -1,0 +1,34 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*  vị trí 
+    kích thước 
+    màu sắc 
+    kiểu dáng */
+#main{
+
+}
+
+#header{
+    height: 46.4px;
+    background-color: black;
+}
+
+# nav
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
+
+

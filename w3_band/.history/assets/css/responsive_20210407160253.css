@@ -1,0 +1,30 @@
+/* PC */
+@media (min-width: 1024px) {
+    #header .search-btn {
+    display: ;
+    }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+    #nav {
+        display: block;
+    }
+    
+    #nav > li {
+        display: block;
+    }
+
+    #header .search-btn {
+        display: none;
+    }
+}
